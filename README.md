@@ -14,9 +14,9 @@ Este é um projeto desenvolvido durante a Next Level Week Together, apresentada 
 
 ## :bookmark: Layout
 
-O protótipo da versão Web & Mobile se encontra no link abaixo:
+O protótipo da versão Web se encontra no link abaixo:
 
-* [Protótipo](https://www.figma.com/file/0oOjHq2HUxgBPXN7QiHaMI/Letmeask)
+* [Protótipo - Figma](https://www.figma.com/file/0oOjHq2HUxgBPXN7QiHaMI/Letmeask)
 
 ## :zap: Tecnologias
 
